@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Holding_managment</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Holding_managment.styles.css" asp-append-version="true" />
+
+
+    <link rel="icon" type="image/png" sizes="16x16" href="~/images/favicon.png">
+    <!-- Bootstrap Core CSS -->
+    <link href="~/node_modules/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/node_modules/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet">
+    <!-- This page CSS -->
+    <!-- chartist CSS -->
+    <link href="~/node_modules/morrisjs/morris.css" rel="stylesheet">
+    <!--c3 CSS -->
+    <link href="~/node_modules/c3-master/c3.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="~/css/style.css" rel="stylesheet">
+    <!-- Dashboard 1 Page CSS -->
+    <link href="css/pages/dashboard1.css" rel="stylesheet">
+    <!-- You can change the theme colors from here -->
+    <link href="css/colors/default.css" id="theme" rel="stylesheet">
+    <link rel="canonical" href="https://www.wrappixel.com/templates/adminwrap-lite/" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Holding_managment</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <aside class="left-sidebar">
+        <!-- Sidebar scroll-->
+        <div class="scroll-sidebar">
+            <!-- Sidebar navigation-->
+            <nav class="sidebar-nav">
+                <ul id="sidebarnav">
+                    <li>
+                        <a class="waves-effect waves-dark" href="index.html" aria-expanded="false">
+                            <i class="fa fa-tachometer"></i><span class="hide-menu">Dashboard</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="waves-effect waves-dark" href="pages-profile.html" aria-expanded="false">
+                            <i class="fa fa-user-circle-o"></i><span class="hide-menu">Profile</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="waves-effect waves-dark" href="table-basic.html" aria-expanded="false">
+                            <i class="fa fa-table"></i><span class="hide-menu">Tables</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="waves-effect waves-dark" href="icon-fontawesome.html" aria-expanded="false">
+                            <i class="fa fa-smile-o"></i><span class="hide-menu">Icons</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="waves-effect waves-dark" href="map-google.html" aria-expanded="false">
+                            <i class="fa fa-globe"></i><span class="hide-menu">Map</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="waves-effect waves-dark" href="pages-blank.html" aria-expanded="false">
+                            <i class="fa fa-bookmark-o"></i><span class="hide-menu">Blank</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="waves-effect waves-dark" href="pages-error-404.html" aria-expanded="false">
+                            <i class="fa fa-question-circle"></i><span class="hide-menu">404</span>
+                        </a>
+                    </li>
+                </ul>
+                @* <div class="text-center mt-4">
+                    <a href="https://www.wrappixel.com/templates/adminwrap/"
+                       class="btn waves-effect waves-light btn-info hidden-md-down text-white"> mitroz</a>
+                </div> *@
+            </nav>
+            <!-- End Sidebar navigation -->
+        </div>
+        <!-- End Sidebar scroll-->
+    </aside>
+    <div class="container">
+
+        <main role="main" class="pb-3">
+
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - Holding_managment - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/node_modules/jquery/jquery.min.js"></script>
+    <!-- Bootstrap popper Core JavaScript -->
+    <script src="~/node_modules/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- slimscrollbar scrollbar JavaScript -->
+    <script src="js/perfect-scrollbar.jquery.min.js"></script>
+    <!--Wave Effects -->
+    <script src="js/waves.js"></script>
+    <!--Menu sidebar -->
+    <script src="js/sidebarmenu.js"></script>
+    <!--Custom JavaScript -->
+    <script src="js/custom.min.js"></script>
+    <!-- ============================================================== -->
+    <!-- This page plugins -->
+    <!-- ============================================================== -->
+    <!--morris JavaScript -->
+    <script src="~/node_modules/raphael/raphael-min.js"></script>
+    <script src="~/node_modules/morrisjs/morris.min.js"></script>
+    <!--c3 JavaScript -->
+    <script src="~/node_modules/d3/d3.min.js"></script>
+    <script src="~/node_modules/c3-master/c3.min.js"></script>
+    <!-- Chart JS -->
+    <script src="js/dashboard1.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

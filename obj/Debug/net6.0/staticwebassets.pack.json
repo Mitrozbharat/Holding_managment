@@ -1,0 +1,1073 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Holding-managment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Holding-managment.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\colors\\default.css",
+      "PackagePath": "staticwebassets\\css\\colors\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\demo.css",
+      "PackagePath": "staticwebassets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\demo.css.map",
+      "PackagePath": "staticwebassets\\css\\demo.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\fonts.min.css",
+      "PackagePath": "staticwebassets\\css\\fonts.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\icons\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\icons\\font-awesome\\old\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\old\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\kaiadmin.css",
+      "PackagePath": "staticwebassets\\css\\kaiadmin.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\kaiadmin.css.map",
+      "PackagePath": "staticwebassets\\css\\kaiadmin.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\kaiadmin.min.css",
+      "PackagePath": "staticwebassets\\css\\kaiadmin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\bootstrap-switch.css",
+      "PackagePath": "staticwebassets\\css\\pages\\bootstrap-switch.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\breadcrumb-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\breadcrumb-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\card-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\card-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\chat-app-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\chat-app-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\common.css",
+      "PackagePath": "staticwebassets\\css\\pages\\common.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\contact-app-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\contact-app-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\dashboard1.css",
+      "PackagePath": "staticwebassets\\css\\pages\\dashboard1.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\easy-pie-chart.css",
+      "PackagePath": "staticwebassets\\css\\pages\\easy-pie-chart.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\error-pages.css",
+      "PackagePath": "staticwebassets\\css\\pages\\error-pages.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\file-upload.css",
+      "PackagePath": "staticwebassets\\css\\pages\\file-upload.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\float-chart.css",
+      "PackagePath": "staticwebassets\\css\\pages\\float-chart.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\floating-label.css",
+      "PackagePath": "staticwebassets\\css\\pages\\floating-label.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\footable-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\footable-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\form-icheck.css",
+      "PackagePath": "staticwebassets\\css\\pages\\form-icheck.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\form-pages.css",
+      "PackagePath": "staticwebassets\\css\\pages\\form-pages.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\google-vector-map.css",
+      "PackagePath": "staticwebassets\\css\\pages\\google-vector-map.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\icon-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\icon-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\inbox.css",
+      "PackagePath": "staticwebassets\\css\\pages\\inbox.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\login-register-lock.css",
+      "PackagePath": "staticwebassets\\css\\pages\\login-register-lock.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\other-pages.css",
+      "PackagePath": "staticwebassets\\css\\pages\\other-pages.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\pages.css",
+      "PackagePath": "staticwebassets\\css\\pages\\pages.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\pagination.css",
+      "PackagePath": "staticwebassets\\css\\pages\\pagination.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\css\\pages\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\pricing-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\pricing-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\progressbar-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\progressbar-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\ribbon-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\ribbon-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\stylish-tooltip.css",
+      "PackagePath": "staticwebassets\\css\\pages\\stylish-tooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\tab-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\tab-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\table-pages.css",
+      "PackagePath": "staticwebassets\\css\\pages\\table-pages.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\timeline-vertical-horizontal.css",
+      "PackagePath": "staticwebassets\\css\\pages\\timeline-vertical-horizontal.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\ui-bootstrap-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\ui-bootstrap-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\user-card.css",
+      "PackagePath": "staticwebassets\\css\\pages\\user-card.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\pages\\widget-page.css",
+      "PackagePath": "staticwebassets\\css\\pages\\widget-page.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\plugins.css.map",
+      "PackagePath": "staticwebassets\\css\\plugins.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\spinners.css",
+      "PackagePath": "staticwebassets\\css\\spinners.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\summernote\\summernote.eot",
+      "PackagePath": "staticwebassets\\fonts\\summernote\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\summernote\\summernote.ttf",
+      "PackagePath": "staticwebassets\\fonts\\summernote\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\summernote\\summernote.woff",
+      "PackagePath": "staticwebassets\\fonts\\summernote\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\fonts\\summernote\\summernote.woff2",
+      "PackagePath": "staticwebassets\\fonts\\summernote\\summernote.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\js\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\js\\dashboard1.js",
+      "PackagePath": "staticwebassets\\js\\dashboard1.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\js\\flot-data.js",
+      "PackagePath": "staticwebassets\\js\\flot-data.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\js\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\js\\waves.js",
+      "PackagePath": "staticwebassets\\js\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\app.scss",
+      "PackagePath": "staticwebassets\\scss\\app.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\colors\\default.scss",
+      "PackagePath": "staticwebassets\\scss\\colors\\default.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\grid.scss",
+      "PackagePath": "staticwebassets\\scss\\grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\.bower.json",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\.bower.json"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\.gitignore",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\.npmignore",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\.npmignore"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\bower.json",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont-old.ttf",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont-old.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\animated.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\core.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\extras.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\extras.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\icons.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\larger.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\list.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\path.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\spinning.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\less\\variables.less",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_extras.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_extras.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\old\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\old\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\icons\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\scss\\icons\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\bootstrap-switch.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\bootstrap-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\breadcrumb-page.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\breadcrumb-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\button-page.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\button-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\card-page.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\card-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\chat-app-page.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\chat-app-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\common.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\common.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\contact-app-page.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\contact-app-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\dashboard1.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\dashboard1.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\easy-pie-chart.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\easy-pie-chart.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\error-pages.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\error-pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\file-upload.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\file-upload.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\float-chart.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\float-chart.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\floating-label.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\floating-label.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\footable-page.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\footable-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\form-icheck.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\form-icheck.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\form-pages.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\form-pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\google-vector-map.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\google-vector-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\icon-page.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\icon-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\other-pages.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\other-pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\pages.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\pricing-page.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\pricing-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\stylish-tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\stylish-tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\pages\\table-pages.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\table-pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\responsive.scss",
+      "PackagePath": "staticwebassets\\scss\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\variable.scss",
+      "PackagePath": "staticwebassets\\scss\\variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\widgets\\blog.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\widgets\\comment.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\comment.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\widgets\\common-widget.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\common-widget.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\widgets\\feed.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\feed.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\widgets\\msg-box.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\msg-box.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\widgets\\profile.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\profile.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\widgets\\topbar-mail.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\topbar-mail.scss"
+    },
+    {
+      "Id": "C:\\Users\\bhara\\source\\repos\\Holding-managment\\wwwroot\\scss\\widgets\\widgets.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\widgets.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Holding-managment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Holding-managment.props",
+      "PackagePath": "build\\Holding-managment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Holding-managment.props",
+      "PackagePath": "buildMultiTargeting\\Holding-managment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Holding-managment.props",
+      "PackagePath": "buildTransitive\\Holding-managment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
